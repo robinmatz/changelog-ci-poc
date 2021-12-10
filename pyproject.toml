@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "mymodule"
-version = "0.3.1"
+version = "0.3.2"
 description = "PoC for changelog-ci"
 authors = ["Robin Matz <robin.s.matz@gmail.com>"]
 license = "MIT"
